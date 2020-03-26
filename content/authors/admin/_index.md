@@ -20,13 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the intersection of Bayesian methodology, statistical reinforcement learning, multi-armed bandits and modern applications based on adaptive decision making, such as mobile health.
 
-interests:
-- Reinforcement Learning
-- Multi-armed bandits
-- Bayesian Statistics
-- Bio-statistics
-- Adaptive Experiments
-- Adaptive Trials' Designs
 
 education:
   courses:

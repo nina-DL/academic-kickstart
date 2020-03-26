@@ -43,8 +43,6 @@ local_business_type = ""
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = ""
 
-# Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
 
 ############################
 ## Site Features
@@ -116,11 +114,14 @@ contact_links = [
 ## Social
 ############################
 
+# Description for social sharing and search engines. If undefined, superuser role is used in place.
+description = "Personal website of Nina Deliu"
+
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "DeliuNina"
 
 ############################
 ## Regional Settings
@@ -165,7 +166,7 @@ plugins_js  = []
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
-
+  avatar = "avatar.jpg"
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 

@@ -18,11 +18,11 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "nina"
+font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-#font_size = "S"
+font_size = "S"
 
 ############################
 ## Basic Info
@@ -166,7 +166,6 @@ plugins_js  = []
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
-  avatar = "avatar.jpg"
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
 

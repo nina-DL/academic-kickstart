@@ -15,11 +15,18 @@ role: PhD Canditate in Methodological Statistics
 # Organizations/Affiliations
 organizations:
 - name: University of Rome La Sapienza
-  url: "https://www.uniroma1.it/it/"
+  url: "https://www.uniroma1.it/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the intersection of Bayesian methodology, statistical reinforcement learning, multi-armed bandits and modern applications based on adaptive decision making, such as mobile health.
 
+interests: []
+# - Reinforcement Learning
+# - Multi-armed bandits
+# - Bayesian Statistics
+# - Bio-statistics
+# - Adaptive Experiments
+# - Adaptive Trials' Designs
 
 education:
   courses:
@@ -69,6 +76,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am PhD Candidate in Methodological Statistics at [University of Rome La Sapienza](https://www.uniroma1.it/en/) (Rome, Italy), and currently I am a Visiting Researcher in the [Computer Science Department](https://web.cs.toronto.edu/) of [University of Toronto](https://www.utoronto.ca/) (Ontario, Canada), under the supervision of [Joseph Jay Williams](http://www.josephjaywilliams.com/).
+From April 2019 to July 2019, I was a Visiting Researcher at the [National University of Singapore](http://www.nus.edu.sg/), specifically at the [Centre for Quantitative Medicine](https://www.duke-nus.edu.sg/cqm), [Duke-NUS Medical School](https://www.duke-nus.edu.sg/). Here, I worked under the supervision of [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) on Reinforcement Learning (RL) and Multi-armed bandit (MAB) algorithms applied in Modern Biostatistics, namely RL in Dynamic Treatment Regimes, MABs in mobile-Health and Adaptive Clinical Trials design. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also part of the Intelligent Adaptive Interventions lab lead by [Joseph Jay Williams](http://www.josephjaywilliams.com/), and a collaborator MAB based adaptive experiments, such as the [Berkeley DIAMANTE study](https://dheal.berkeley.edu/current-projects/diamante) and the [GoodLife Fitness](www.goodlifefitness.com) project.

@@ -2,7 +2,8 @@
 name = "nina"
 
 # Optional Google font URL
-google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
+google_fonts = "Arapey:400,400|Karla:400,700|Roboto+Mono|Old+Standard+TT"
+#google_fonts = "Baloo+Bhai+2"
 
 # Font families
 heading_font = "Arapey"
@@ -11,5 +12,5 @@ nav_font = "Karla"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "18"
-font_size_small = "16"
+font_size = "15"
+font_size_small = "14"

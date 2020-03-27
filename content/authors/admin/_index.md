@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Canditate in Methodological Statistics
+role: PhD Candidate in Methodological Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -33,10 +33,10 @@ education:
   - course: PhD in Methodological Statistics
     institution: University of Rome La Sapienza
     year: ongoing
-  - course: MSc in Statistics and Decision Sciences (curriculum "Bayesian Statistics")
+  - course: MSc in Statistics and Decision Sciences (curriculum Bayesian Statistics)
     institution: University of Rome La Sapienza
     year: 2017
-  - course: Master 2 in Applied Mathematics (curriculum "Bayesian Statistics")
+  - course: Master 2 in Applied Mathematics (curriculum Bayesian Statistics)
     institution: Universitè Paris Dauphine
     year: 2016
   - course: BSc in Statistics, Economics and Society
@@ -48,18 +48,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nina-deliu/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/nina-dl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DeliuNina
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nina-dl
+  link: https://scholar.google.com/citations?user=QiORTUUAAAAJ&hl=en
+- icon: paper-plane
+  icon_pack: fas
+  link: '#contact'
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

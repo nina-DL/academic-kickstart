@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Methodological Statistics
     institution: University of Rome La Sapienza
-    year: ongoing
+    year: 2020 (expected)
   - course: MSc in Statistics and Decision Sciences (curriculum Bayesian Statistics)
     institution: University of Rome La Sapienza
     year: 2017
@@ -62,10 +62,10 @@ social:
   link: https://scholar.google.com/citations?user=QiORTUUAAAAJ&hl=en
 - icon: paper-plane
   icon_pack: fas
-  link: '#contact'
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact' # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -29,18 +29,18 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  # text_color_light = true
+  #text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  #padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -57,7 +57,7 @@ During my Master’s I focused on Bayesian Statistics, specifically Markov Chain
 After starting my PhD, I got really interested in Reinforcement Learning (RL) and its statistical properties in terms of inference and causality, particularly relevant in bio-medical settings.
 My first approach was to carefully review all the RL algorithm applied in modern biostatistic, identifying, first, all the health-related applications, and then the relative methodologies.
 
-Currently, I'm focusing on the problems and challenges arising in some of these specific applications and the related statistical approach evaluation. More specifically, my attention is now on:
+Currently, I'm focusing on problems and challenges arising in some of these specific applications and the related statistical approach evaluation. More specifically, my attention is now on:
 - MABs with non-stationarity settings, typical of real-world mHealth problems where habituation is a main challenge;
 - Non-stationarity and habituation modeling in complex multi-factorial designs;
 - Statistical inference in MABs online adaptive experiments, where the primary interest is generally on maximising an expected cumulative reward;

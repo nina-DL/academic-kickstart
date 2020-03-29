@@ -42,7 +42,7 @@ education:
   - course: BSc in Statistics, Economics and Society
     institution: University of Rome La Sapienza
     year: 2014
-
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -90,5 +90,3 @@ Currently I am a Visiting Researcher in the [Computer Science Department](https:
 From April 2019 to July 2019, I was a Visiting Researcher at the [National University of Singapore](http://www.nus.edu.sg/), specifically at the [Centre for Quantitative Medicine](https://www.duke-nus.edu.sg/cqm), [Duke-NUS Medical School](https://www.duke-nus.edu.sg/). Here, I worked under the supervision of [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) on Reinforcement Learning (RL) and MABs algorithms applied in Modern Biostatistics.
 
 Prior to my PhD program, I worked as a biostatistician at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included the [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).
-
-

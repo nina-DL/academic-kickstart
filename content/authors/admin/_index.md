@@ -1,6 +1,7 @@
 ---
-# Display name
-name: Nina Deliu
+# Home page definition
+# Display name under the avatar
+name: Nina Deliu 
 
 # Username (this should match the folder name)
 authors:
@@ -84,10 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am **PhD Candidate in Methodological Statistics** at [University of Rome La Sapienza](https://www.uniroma1.it/en/) (Italy). 
+I am a **PhD Candidate in Methodological Statistics** at [University of Rome La Sapienza](https://www.uniroma1.it/en/) (Italy), and currently I am a **Visiting Research Scholar** in the Computer Science Department of [University of Toronto](https://www.utoronto.ca/) (Canada), under the supervision of [Joseph Jay Williams](http://www.josephjaywilliams.com/). Here, I am also part of the **Intelligent Adaptive Interventions Lab**, and a collaborator of Multi-armed bandits (MABs) based adaptive experiments, such as the [Berkeley DIAMANTE study](https://dheal.berkeley.edu/current-projects/diamante) and the [GoodLife Fitness](www.goodlifefitness.com) project.
 
-Currently, I am a **Visiting Researcher** in the Computer Science Department of [University of Toronto](https://www.utoronto.ca/) (Canada), under the supervision of [Joseph Jay Williams](http://www.josephjaywilliams.com/), where I am also part of the **Intelligent Adaptive Interventions Lab**, and a collaborator of Multi-armed bandits (MABs) based adaptive experiments, such as the [Berkeley DIAMANTE study](https://dheal.berkeley.edu/current-projects/diamante) and the [GoodLife Fitness](www.goodlifefitness.com) project.
+My research interests currently lie at the intersection between **Bayesian methods**, **Statistical Reinforcement Learning** & **Multi-armed Bandits**, and modern real-world applications based on adaptive decision making. These include **Dynamic Treatment Regimes (DRTs)**, **mobile-Health (mHealth)**, and **adaptive experimentations** such as educational randomized trials.  
 
-From April 2019 to July 2019, I was a **Visiting Researcher** at the [National University of Singapore](http://www.nus.edu.sg/), specifically at the [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), where I worked under the supervision of [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) on Reinforcement Learning (RL) and MABs algorithms applied in Modern Biostatistics.
-
-In a previous life, I worked as a **biostatistician** at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included the [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).
+In a previous life, I worked as a **biostatistician** at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).

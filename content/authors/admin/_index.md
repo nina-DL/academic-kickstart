@@ -20,23 +20,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the intersection of Bayesian methodology, statistical reinforcement learning, multi-armed bandits and modern applications based on adaptive decision making, such as mobile health.
 
-interests: []
-# - Reinforcement Learning
-# - Multi-armed bandits
-# - Bayesian Statistics
-# - Bio-statistics
-# - Adaptive Experiments
-# - Adaptive Trials' Designs
+interests:
+- Reinforcement Learning
+- Multi-armed bandits
+- Bayesian Statistics
+- Bio-statistics
+- Adaptive Experiments
+- Adaptive Trials' Designs
+- Dynamic Treatment Regimes
+- mobile-Health
 
 education:
   courses:
   - course: PhD in Methodological Statistics
     institution: University of Rome La Sapienza
     year: 2020 (expected)
-  - course: MSc in Statistics and Decision Sciences (curriculum Bayesian Statistics)
+  - course: MSc in Bayesian Statistics and Decision Sciences
     institution: University of Rome La Sapienza
     year: 2017
-  - course: Master 2 in Applied Mathematics (curriculum Bayesian Statistics)
+  - course: Master M2 in Applied Mathematics
     institution: Universitè Paris Dauphine
     year: 2016
   - course: BSc in Statistics, Economics and Society
@@ -89,4 +91,4 @@ Currently I am a Visiting Researcher in the [Computer Science Department](https:
 
 From April 2019 to July 2019, I was a Visiting Researcher at the [National University of Singapore](http://www.nus.edu.sg/), specifically at the [Centre for Quantitative Medicine](https://www.duke-nus.edu.sg/cqm), [Duke-NUS Medical School](https://www.duke-nus.edu.sg/). Here, I worked under the supervision of [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) on Reinforcement Learning (RL) and MABs algorithms applied in Modern Biostatistics.
 
-Prior to my PhD program, I worked as a biostatistician at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included the [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).
+In a previous life, I worked as a biostatistician at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included the [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).

@@ -45,12 +45,12 @@ subtitle = ""
  
  # CSS class.
  css_class = "mini"
+ 
+ # https://www.ximenavengoechea.com/
 +++
 
-#https://www.ximenavengoechea.com/
 
-
-I am **PhD Candidate in Methodological Statistics** at [University of Rome La Sapienza](https://www.uniroma1.it/en/) (Italy). 
+I am a **PhD Candidate in Methodological Statistics** at [University of Rome La Sapienza](https://www.uniroma1.it/en/) (Italy). 
 
 Currently, I am a **Visiting Researcher** in the Computer Science Department of [University of Toronto](https://www.utoronto.ca/) (Canada), under the supervision of [Joseph Jay Williams](http://www.josephjaywilliams.com/), where I am also part of the **Intelligent Adaptive Interventions Lab**, and a collaborator of Multi-armed bandits (MABs) based adaptive experiments, such as the [Berkeley DIAMANTE study](https://dheal.berkeley.edu/current-projects/diamante) and the [GoodLife Fitness](www.goodlifefitness.com) project.
 

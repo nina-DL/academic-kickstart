@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "Academic and Professional Experiences"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,58 +18,39 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data Scientist & Professional Educator"
-  company = "RStudio"
-  company_url = "https://www.rstudio.com/"
-  location = "Oregon"
-  date_start = "2018-10-22"
-  date_end = ""
-  description = """
-  """
-
-[[experience]]
-  title = "Associate Professor, Pediatrics"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2017-07-01"
-  date_end = "2018-10-19"
-  description = """ """
-  
-[[experience]]
-  title = "Assistant Director, Center for Spoken Language Understanding"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2017-09-01"
-  date_end = "2018-10-19"
+  title = "Visiting Research Scholar"
+  company = "Computer Science Department, University of Toronto"
+  company_url = "https://web.cs.toronto.edu/"
+  location = "Toronto, Canada"
+  date_start = "2020-02-01"
+  date_end = "2020-03-31"
   description = """ """
 
 [[experience]]
-  title = "Assistant Professor, Pediatrics"
-  company = "Oregon Health & Science University"
-  company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2012-01-01"
-  date_end = "2017-06-30"
+  title = "Visiting Research Scholar"
+  company = "Center for Quantitative Medicine, Duke-NUS, National University of Singapore"
+  company_url = "https://www.duke-nus.edu.sg/cqm"
+  location = "Singapore, Singapore"
+  date_start = "2019-04-01"
+  date_end = "2019-07-01"
   description = """ """
   
 [[experience]]
-  title = "Senior Research Associate"
-  company = "Oregon Health & Science University"
+  title = "Tutor - II Level Master in Big Data"
+  company = "University of Rome La Sapienza"
   company_url = "https://www.ohsu.edu/"
-  location = "Portland, Oregon"
-  date_start = "2010-03-01"
-  date_end = "2011-12-31"
+  location = "Rome, Italy"
+  date_start = "2018-07-01"
+  date_end = "2019-02-01"
   description = """ """
-  
+
 [[experience]]
-  title = "Assistant Research Professor"
-  company = "Arizona State University"
-  company_url = "https://www.asu.edu/"
-  location = "Tempe, Arizona"
-  date_start = "2008-08-01"
-  date_end = "2010-02-01"
+  title = "Biostatistician and Data Manager"
+  company = "GIMEMA Foundation"
+  company_url = "https://www.gimema.it/"
+  location = "Rome, Italy"
+  date_start = "2016-06-05"
+  date_end = "2018-06-04"
   description = """ """
 
 +++

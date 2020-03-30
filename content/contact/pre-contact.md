@@ -9,7 +9,7 @@ active = true # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Get in touch"
-subtitle = ""
+subtitle = "I’m always open for collaboration and discussion. Feel free to drop me a line at any time!"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,11 +29,11 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Designlovefest_SANTANA_dress-your-tech_01_01.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "Designlovefest_SANTANA_dress-your-tech_01_01.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.

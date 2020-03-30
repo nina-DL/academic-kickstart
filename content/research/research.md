@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = ""
+title = "Research Interests"
 subtitle = ""
 
 [design]
@@ -63,7 +63,7 @@ Currently, I'm focusing on problems and challenges arising in some of these spec
 I have also worked for a couple of years in a clinical foundation, collaborating with clinicians and healthcare researchers. I think that statistics and machine learning (ML) can bring a lot in advancing the health-related research and, reversely, that many of the interesting challenges and problems in statistics and ML araise from real-worls applications.
 
 {{% alert note %}}
-Here are nice readings to get into RL, MABs, DTRs and mhealth:
+Here are nice readings to get into RL, MABs, DTRs and mHealth:
 - [Algorithms for Reinforcement Learning](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari
 - [Bandit Algorithms](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore and Csaba Szepesvari
 - [Statistical Methods for Dynamic Treatment Regimes](https://link.springer.com/book/10.1007/978-1-4614-7428-9) by Bibhas Chakraborty and Erica E.M. Moodie

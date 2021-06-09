@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher, Biostatistics
+role: Postdoctoral Researcher, Biostatistical and ML Methods in Adaptive Experiments
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: "https://www.mrc-bsu.cam.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the intersection of Bayesian methodology, statistical reinforcement learning, multi-armed bandits and modern applications based on adaptive decision making, such as mobile health.
+bio: Postdoctoral Researcher in Biostatistics and ML methods for developing and improving the design and analysis of adaptive trials, at the MRC - Biostatistics Unit of University of Cambridge.
 
 interests:
 - Reinforcement Learning
@@ -85,13 +85,8 @@ user_groups:
 - Visitors
 ---
 
-I am a **Postdoctoral Researcher** at the [MRC - Biostatistics Unit of University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK), working with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/sofia-villar/) in the [Design and Analysis of Randomised Trials (DART) Group](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/).
-My current research interests lie at the intersection between **biostatistics**, **statistical reinforcement learning & multi-armed bandits**, and **modern adaptive experimentation**.
-More specifically, my focus is on using multi-armed bandit strategies for better designing novel trials such as adaptive clinical trials and micro-randomized trials. Additional interests are given to the emergent area of **mobile-Health** and how to optimally design mobile apps for guiding users’ behavior and improving their health outcomes. The design of such applications involves both the design of the trial itself and the design of the (bandit) algorithm. As such kind of experiments may have a dual goal of improving outcomes for users enrolled into the experiment and learning about the effectiveness of interventions, **estimation and inference in adaptively collected data play a central role in my research arena**.
+I am a **Postdoctoral Researcher** in Biostatistics at the [MRC - Biostatistics Unit of University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK). Here, I am part of the [Design and Analysis of Randomised Trials (DART) Group](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/) and I work with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/sofia-villar/) on developing and improving the statistical methodology for adaptive designs.
+More specifically, my focus is on the use of **multi-armed bandit strategies** for designing "more ethical" trials (i.e., with participants benefits) such as adaptive clinical trials and micro-randomized trials, a key feature of the emergent **mobile-Health** area. As such kind of experiments may have a dual (and competing) goal of improving outcomes for trial participants and learning about the effectiveness of interventions, **estimation and inference in adaptively collected data** play a central role in my research arena. 
 
-I did my **PhD in Methodological Statistics** at [Sapienza University of Rome](https://www.uniroma1.it/en/) (Italy). During my PhD, I spent my time between my home university, and two external universities, which I joined as a **Visiting Research Scholar**. First, the [National University of Singapore](http://www.nus.edu.sg/), specifically at the [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), where I worked under the supervision of [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) on Reinforcement Learning (RL) and MABs algorithms applied in Modern Biostatistics. Second, the Computer Science Department of [University of Toronto](https://www.utoronto.ca/) (Canada), under the supervision of [Joseph Jay Williams](http://www.josephjaywilliams.com/), where I am also part of the **Intelligent Adaptive Interventions Lab**, and a collaborator of Multi-armed bandits (MABs) based adaptive experiments, such as the [Berkeley DIAMANTE study](https://dheal.berkeley.edu/current-projects/diamante) and the [GoodLife Fitness](www.goodlifefitness.com) project.
+I also actively collaborate with [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) and [Joseph Jay Williams](http://www.josephjaywilliams.com/) on other theoretical reinforcement learning works or more applied projects, respectively. Research questions include how to optimally design mobile apps for guiding users’ behavior and improving their health outcomes, or how to conduct educational experiments for improving students' performance. 
 
-In a previous life, I worked as a **biostatistician** at the [GIMEMA Foundation](https://www.gimema.it/) (Rome), and I have been actively involved in cancer and health-related research projects, included the [European Organisation for Research and Treatment of Cancer](www.eortc.org) projects and the [PROMOTION Registry](http://promotion.gimema.it/).
-
-
-Outside of work, I am a superfun of yoga, kick-boking, rock music, russian classic literature, and travelling... oh travelling (March 29th, 2020)...

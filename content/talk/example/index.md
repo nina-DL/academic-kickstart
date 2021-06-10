@@ -1,23 +1,18 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Invited Talk at Bernoulli-IMS 10th WC
+event: Young Researchers Meeting, Bernoulli-IMS 10th World Congress in Probability and Statistics
+event_url: https://www.wc2020.org/sub03_04.php
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Online
+address: ""
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: I am delighted to announce that I was invited to give a talk at the Young Researchers Meeting, Bernoulli-IMS 10th WC in Probability and Statistics. 
+abstract: "I am delighted to announce that I was invited to give a talk at the Young Researchers Meeting, Bernoulli-IMS 10th WC in Probability and Statistics. I will present a work entitled *Using reinforcement learning to design just-in-time adaptive interventions: the DIAMANTE pilot study*"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-07-17T16:15:00Z"
+date_end: "2021-07-17T16:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

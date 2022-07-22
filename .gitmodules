@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/nina-DL/nina-DL.github.io.git
 	branch = master
+[submodule "nina-DL.github.io"]
+	path = nina-DL.github.io
+	url = https://github.com/nina-DL/nina-DL.github.io.git
+	branch = master

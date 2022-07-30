@@ -1,0 +1,8 @@
+library(blogdown)
+
+blogdown::build_site()
+
+blogdown::serve_site()
+
+servr::daemon_stop(1)
+blogdown::serve_site()

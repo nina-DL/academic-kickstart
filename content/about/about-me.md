@@ -50,7 +50,8 @@ subtitle = ""
 +++
 
     
-I am a **Postdoctoral Researcher** in Biostatistics at the [MRC - Biostatistics Unit of University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK). I am part of the [Design and Analysis of Randomised Trials (DART) Group](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/) and I work with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/sofia-villar/) on developing and improving the statistical methodology for adaptive designs.
+I am an **Assistant Professor** (equivalence in Italian: RTDA) in Statistics at the [MEMOTEF Department](https://web.uniroma1.it/memotef/) of Sapienza University of Rome (IT). Previously, I was a Postdoc in Biostatistics at the [MRC - Biostatistics Unit of University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK), part of the [Design and Analysis of Randomised Trials (DART) Group](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/).
+
 My research interests lie at the intersection between **biostatistics**, **statistical reinforcement learning & multi-armed bandits**, and **modern adaptive experimentation**.
 More specifically, my focus is on using multi-armed bandit strategies for better designing novel trials such as adaptive clinical trials and micro-randomized trials. Additional interests are given to the emergent area of **mobile-Health** and how to optimally design mobile apps for guiding users’ behavior and improving their health outcomes. The design of such applications involves both the design of the trial itself and the design of the (bandit) algorithm. As such kind of experiments may have a dual goal of improving outcomes for users enrolled into the experiment and learning about the effectiveness of interventions, **estimation and inference in adaptively collected data play a central role in my research arena**.
 

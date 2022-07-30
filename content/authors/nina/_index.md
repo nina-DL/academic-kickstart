@@ -11,24 +11,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher, Biostatistical and ML Methods in Adaptive Experiments
+role: Statistics Learner
 
 # Organizations/Affiliations
 organizations:
-- name: MRC - Biostatistics Unit, University of Cambridge
+- name: MEMOTEF, Sapienza University
+  url: "https://web.uniroma1.it/memotef/"
+- name: MRC-BSU, University of Cambridge
   url: "https://www.mrc-bsu.cam.ac.uk/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Researcher in Biostatistics and ML methods for developing and improving the design and analysis of adaptive trials, at the MRC - Biostatistics Unit of University of Cambridge.
 
 interests:
-- Reinforcement Learning
-- Multi-armed bandits
 - Bayesian Statistics
 - Statistical Inference
-- Adaptive Experiments
-- Adaptive Trials' Designs
-- Mobile-Health
+- Reinforcement Learning
+- Multi-armed bandits
+- Adaptive Experiments & Designs
+- Digital & Mobile-Health
 
 education:
   courses:
@@ -85,8 +87,10 @@ user_groups:
 - Visitors
 ---
 
-I am a **Postdoctoral Researcher** in Biostatistics at the [MRC - Biostatistics Unit of University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK). Here, I am part of the [Design and Analysis of Randomised Trials (DART) Group](https://www.mrc-bsu.cam.ac.uk/research-and-development/dart-design-and-analysis-of-randomised-trials/) and I work with [Sofia Villar](https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/t-to-z/sofia-villar/) on developing and improving the statistical methodology for adaptive designs.
-More specifically, my focus is on the use of **multi-armed bandit strategies** for designing "more ethical" trials (i.e., with participants benefits) such as adaptive clinical trials and micro-randomized trials, a key feature of the emergent **mobile-Health** area. As such kind of experiments may have a dual (and competing) goal of improving outcomes for trial participants and learning about the effectiveness of interventions, **estimation and inference in adaptively collected data** play a central role in my research arena. 
+I am an **Assistant Professor** (RTDa) in Statistics at the [MEMOTEF Department](https://web.uniroma1.it/memotef/), Sapienza University of Rome (IT). Previously, I was a Postdoc in Biostatistics at the [MRC - Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK), where I am currently a long-term Visitor. 
 
-I also actively collaborate with [Bibhas Chakraborty](https://blog.nus.edu.sg/bibhas/) and [Joseph Jay Williams](http://www.josephjaywilliams.com/) on other theoretical reinforcement learning works or more applied projects, respectively. Research questions include how to optimally design mobile apps for guiding users’ behavior and improving their health outcomes, or how to conduct educational experiments for improving students' performance. 
+My research interests lie at the intersection between **Bayesian statistics**, **biostatistics**, **statistical reinforcement learning (RL) & multi-armed bandits (MABs)**, and **adaptive experiments / designs**.
+More specifically, my focus is: 1) on using MABs and RL for informing the design of (adaptive) clinical trials and other digital **mobile-Health** experiments (in healthcare, education and other behavioral sciences); and 2) **inference in adaptively collected data**. 
+
+I actively collaborate with academic and other research institutions worldwide, including [University of Cambridge](https://www.mrc-bsu.cam.ac.uk/), [National University of Singapore](http://www.nus.edu.sg/) and [University of Toronto](https://www.utoronto.ca/). 
 

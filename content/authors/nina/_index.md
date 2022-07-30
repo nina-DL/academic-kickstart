@@ -22,7 +22,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Researcher in Biostatistics and ML methods for developing and improving the design and analysis of adaptive trials, at the MRC - Biostatistics Unit of University of Cambridge.
+bio: Assistant Professor in Statistics, Sapienza University
 
 interests:
 - Bayesian Statistics

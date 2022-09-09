@@ -14,19 +14,19 @@
   weight = 10
 
 [[main]]
-  name = "Research"
+  name = "Research \& Teaching"
   url = "/research"
   weight = 20
 
-[[main]]
-  name = "Teaching"
-  url = "#courses/"
-  weight = 30
+# [[main]]
+#  name = "Teaching"
+#  url = "#courses/"
+#  weight = 30
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 40
+#[[main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 40
 
 [[main]]
   name = "Contact"

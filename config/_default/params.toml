@@ -84,14 +84,15 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Via Regina Elena 295", city = "Rome", region = "RM", postcode = "00161", country = "Italy", country_code = "IT"}
+address = {street = "Via del Castro Laurenziano 9", city = "Rome", region = "RM", postcode = "00161", country = "Italy", country_code = "IT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.904904", longitude = "12.517335"}
+coordinates = {latitude = "41.90539682874826", longitude = "12.518087277910322"}
+
 
 # Directions for visitors to locate you.
-directions = "Enter the yellow Building G and take the stairs to Room 11 on Floor 1"
+directions = "Take the step stairs and get to the 4th floor; Room 426"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

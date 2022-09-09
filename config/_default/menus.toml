@@ -14,7 +14,7 @@
   weight = 10
 
 [[main]]
-  name = "Research \& Teaching"
+  name = "Research & Teaching"
   url = "/research"
   weight = 20
 

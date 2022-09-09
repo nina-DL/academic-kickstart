@@ -22,30 +22,22 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in Statistics, Sapienza University
+bio: Assistant Professor in Statistics, Sapienza University 
 
 interests:
-- Bayesian Statistics
-- Statistical Inference
-- Reinforcement Learning
-- Multi-armed bandits
-- Adaptive Experiments & Designs
-- Digital & Mobile-Health
+- STATISTICS Statistical Inference, Bayesian Statistics, Copula Models
+- ML Reinforcement Learning, Multi-armed Bandits
+- APPLICATIONS Clinical trials, Adaptive Designs, Mobile-Health, Doping Detection
 
 education:
   courses:
   - course: PhD in Methodological Statistics
     institution: University of Rome La Sapienza
     year: 2021 
-  - course: MSc in Bayesian Statistics and Decision Sciences
-    institution: University of Rome La Sapienza
+  - course: Double Degree (MSc) in Bayesian Statistics and Decision Sciences
+    institution: Universitè Paris Dauphine & University of Rome La Sapienza 
     year: 2017
-  - course: Master M2 in Applied Mathematics
-    institution: Universitè Paris Dauphine
-    year: 2016
-  - course: BSc in Statistics, Economics and Society
-    institution: University of Rome La Sapienza
-    year: 2014
+
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -87,10 +79,12 @@ user_groups:
 - Visitors
 ---
 
-I am an **Assistant Professor** (RTDa) in Statistics at the [MEMOTEF Department](https://web.uniroma1.it/memotef/), Sapienza University of Rome (IT). Previously, I was a Postdoc in Biostatistics at the [MRC - Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK), where I am currently a long-term Visitor. 
+I am an **Assistant Professor** (RTDa) in Statistics at the [MEMOTEF Department](https://web.uniroma1.it/memotef/) of Sapienza University of Rome (IT), and a **long-term visitor** at the [MRC - Biostatistics Unit, University of Cambridge](https://www.mrc-bsu.cam.ac.uk/) (UK), where I was a Postdoc in late 2020 --- 2021. 
 
-My research interests lie at the intersection between **Bayesian statistics**, **biostatistics**, **statistical reinforcement learning (RL) & multi-armed bandits (MABs)**, and **adaptive experiments / designs**.
-More specifically, my focus is: 1) on using MABs and RL for informing the design of (adaptive) clinical trials and other digital **mobile-Health** experiments (in healthcare, education and other behavioral sciences); and 2) **inference in adaptively collected data**. 
+I collaborate with different academic (and other research) institutions worldwide, most of which I visited during my PhD. The most **active collaborations** include [University of Cambridge](https://www.mrc-bsu.cam.ac.uk/), [National University of Singapore](http://www.nus.edu.sg/) and [University of Toronto](https://www.utoronto.ca/), where I am also part of the [IAI Lab](http://www.josephjaywilliams.com/people). 
 
-I actively collaborate with academic and other research institutions worldwide, including [University of Cambridge](https://www.mrc-bsu.cam.ac.uk/), [National University of Singapore](http://www.nus.edu.sg/) and [University of Toronto](https://www.utoronto.ca/). 
+I am in the editorial board of [YoungStatS](https://youngstats.github.io/about/), the blog of Young Statisticians Europe (YSE), and curate the [Women in Statistics and Data Science](https://twitter.com/WomenInStat) Twitter account. I am also a member of IMS, ACM and SIS. 
 
+I embrace diverse areas of statistics. My primary research interest lies in exploring and developing statistical methods and theory in the context of **sequential decision-making problems**, intersecting areas of **Statistical Inference**, **Bayesian statistics**, **Reinforcement Learning (RL) & Multi-armed Bandits (MABs)**, and **Adaptive designs / experiments**. More specifically, my current focus is: 1) on using MABs and RL for informing the design of adaptive experiments, in clinical trials and mobile-Health experiments (healthcare, education and other behavioral sciences); and 2) **valid inference in adaptively collected data**. More recently, I become interested in **copula models** for data dependencies. 
+
+My research is inspired by the numerous challenges arising in real-life applications that are characterized by a sequential nature. I strongly believe that the theoretical and methodological progress should go along with the concrete real-world needs, and be *not simply good, but also good for something*. 
